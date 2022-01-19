@@ -1,0 +1,17 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\bin\Debug\netcoreapp3.1\kronometre.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\bin\Debug\netcoreapp3.1\kronometre.deps.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\bin\Debug\netcoreapp3.1\kronometre.runtimeconfig.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\bin\Debug\netcoreapp3.1\kronometre.runtimeconfig.dev.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\bin\Debug\netcoreapp3.1\kronometre.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\bin\Debug\netcoreapp3.1\kronometre.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.Properties.Resources.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.AssemblyInfoInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.AssemblyInfo.cs
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.genruntimeconfig.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\kronometre\kronometre\obj\Debug\netcoreapp3.1\kronometre.csproj.AssemblyReference.cache
